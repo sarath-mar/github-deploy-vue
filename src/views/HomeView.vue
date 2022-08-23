@@ -1,8 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-     <h1>helooi</h1>
-    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
+   <h1>new deployment script added</h1>
   </div>
 </template>
 
